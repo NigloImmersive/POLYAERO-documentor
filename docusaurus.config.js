@@ -98,11 +98,15 @@ const config = {
               },
               {
                 label: 'Intagram',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://www.instagram.com/polyaero05/',
               },
               {
                 label: 'Linkedin',
                 href: 'https://www.linkedin.com/company/polyaero',
+              },
+              {
+                label: 'YouTube',
+                href: 'https://www.youtube.com/channel/UCrIODvdUl2L6b_RmtblxTqg',
               },
             ],
           },
