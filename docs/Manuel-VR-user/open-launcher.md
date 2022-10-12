@@ -42,3 +42,12 @@ Cependant le fonctionnement des casques cités précédemment se fait via la pla
 
 - OCULUS -> _pour le META Quest 2_
 - StreamVR -> _pour le HTC VIVE standard, le HTC VIVE cosmos et le VARJO XR-3_
+
+A noter que :
+
+- pour le HTC Vive cosmos, il est demandé en plus de lancer le logiciel VIVEPORT
+- pour le VARJO XR-3, il est demandé d'ouvrir VARJO Base et de désactivé le OpenXR.
+
+Afin de savoir si le casque est connecté, on peut le voir juste en dessous du bouton `Licencing` (_rouge = aucun casque detecté et vert + plateforme = casque détecté_).
+
+![HMDOff](/img/manuel-vr-user/hmdOff.png) ![SteamVR](/img/manuel-vr-user/steamVR.png) ![Oculus](/img/manuel-vr-user/oculusHMD.png)
