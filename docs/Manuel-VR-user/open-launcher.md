@@ -6,18 +6,18 @@ sidebar_position: 1
 
 Au sein de POLYAERO, nous utilisons le logiciel de réalité virtuelle SkyReal.
 
-![logoSkyReal](/img/manuel-vr-user/logo_SKR.png)
+![logoSkyReal](/img/manuel-vr-user/open-launcher/logo_SKR.png)
 
 Il vous faut donc ouvrir le logiciel avec la version executable `SkyReal.exe`.
 
 Voici la la fênetre que vous devriez obtenir à la l'ouverture du logiciel :
-![Logiciel](/img/manuel-vr-user/luncherEmpty.png)
+![Logiciel](/img/manuel-vr-user/open-launcher/luncherEmpty.png)
 
 ## Vérification de la licence
 
 Le logiciel a besoin d'avoir une licence active. On peut savoir si la licence est active ou non via le circle de couleur situé à coté du bouton `Licencing` (_rouge = inactive et vert = active_).
 
-![LicenceOff](/img/manuel-vr-user/licenceOff.png) ![LicenceOn](/img/manuel-vr-user/licenceOn.png)
+![LicenceOff](/img/manuel-vr-user/open-launcher/licenceOff.png) ![LicenceOn](/img/manuel-vr-user/open-launcher/licenceOn.png)
 
 Seuls certains ordinateurs sont équipés de licence :
 
@@ -52,26 +52,26 @@ A noter que :
 
 Afin de savoir si le casque est connecté, on peut le voir juste en dessous du bouton `Licencing` (_rouge = aucun casque detecté et vert + plateforme = casque détecté_).
 
-![HMDOff](/img/manuel-vr-user/hmdOff.png) ![SteamVR](/img/manuel-vr-user/steamVR.png) ![Oculus](/img/manuel-vr-user/oculusHMD.png)
+![HMDOff](/img/manuel-vr-user/open-launcher/hmdOff.png) ![SteamVR](/img/manuel-vr-user/open-launcher/steamVR.png) ![Oculus](/img/manuel-vr-user/open-launcher/oculusHMD.png)
 
 ## La bibliothèque
 
 Au démarrage de SkyReal, la page par défaut est la bibliothèque. Vous retrouverez toutes les expériences que vous avez déjà ouvertes avec SkyReal.
 
-![librarySKR](/img/manuel-vr-user/librarySKR.png)
+![librarySKR](/img/manuel-vr-user/open-launcher/librarySKR.png)
 
 ### Ajouter une nouvelle simulation
 
 Le gros bouton d'ajout vous permet de choisir n'importe quelle simulation.
 Un fois qu'un CAO a été converti en simulation avec SkyPrep, le fichier à charger dans SkyReal est : `[SimulationName]\SkyReal\cooked\Simulation.umap`
 
-![librarySKRadd](/img/manuel-vr-user/librarySKRadd.png)
+![librarySKRadd](/img/manuel-vr-user/open-launcher/librarySKRadd.png)
 
 ### Trier les simulations
 
 Par défault, la bibliothèque affiche les simulation dans des étiquettes, mais vous pouvez choisir de les afficher sous forme de liste pour obtenir plus de détails.
 
-![librarySKRsorting](/img/manuel-vr-user/librarySKRsorting.png)
+![librarySKRsorting](/img/manuel-vr-user/open-launcher/librarySKRsorting.png)
 
 Vous pouvez trier les cartes par :
 
@@ -83,7 +83,7 @@ Vous pouvez trier les cartes par :
 
 ### Ouvrir une simulation
 
-![librarySKRopen](/img/manuel-vr-user/librarySKRopen.png)
+![librarySKRopen](/img/manuel-vr-user/open-launcher/librarySKRopen.png)
 
 **Play Loccally** : Démarrez la simulation sur cet ordinateur uniquement.
 
@@ -91,4 +91,4 @@ Vous pouvez trier les cartes par :
 
 **Join Session** : Rejoignez une session existante sur le réseau. Vous devez entrez l'adresse IP de la session. (_Vous devez avoir exactement la même simulation_)
 
-![librarySKRjsIP](/img/manuel-vr-user/librarySKRjsIP.png)
+![librarySKRjsIP](/img/manuel-vr-user/open-launcher/librarySKRjsIP.png)
