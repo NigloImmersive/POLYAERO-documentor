@@ -5,6 +5,7 @@ sidebar_position: 1
 # Ouvrir le launcher
 
 Au sein de POLYAERO, nous utilisons le logiciel de réalité virtuelle SkyReal.
+
 ![logoSkyReal](/img/manuel-vr-user/logo_SKR.png)
 
 Il vous faut donc ouvrir le logiciel avec la version executable `SkyReal.exe`.
@@ -15,6 +16,7 @@ Voici la la fênetre que vous devriez obtenir à la l'ouverture du logiciel :
 ## Vérification de la licence
 
 Le logiciel a besoin d'avoir une licence active. On peut savoir si la licence est active ou non via le circle de couleur situé à coté du bouton `Licencing` (_rouge = inactive et vert = active_).
+
 ![LicenceOff](/img/manuel-vr-user/licenceOff.png) ![LicenceOn](/img/manuel-vr-user/licenceOn.png)
 
 Seuls certains ordinateurs sont équipés de licence :
@@ -51,3 +53,42 @@ A noter que :
 Afin de savoir si le casque est connecté, on peut le voir juste en dessous du bouton `Licencing` (_rouge = aucun casque detecté et vert + plateforme = casque détecté_).
 
 ![HMDOff](/img/manuel-vr-user/hmdOff.png) ![SteamVR](/img/manuel-vr-user/steamVR.png) ![Oculus](/img/manuel-vr-user/oculusHMD.png)
+
+## La bibliothèque
+
+Au démarrage de SkyReal, la page par défaut est la bibliothèque. Vous retrouverez toutes les expériences que vous avez déjà ouvertes avec SkyReal.
+
+![librarySKR](/img/manuel-vr-user/librarySKR.png)
+
+### Ajouter une nouvelle simulation
+
+Le gros bouton d'ajout vous permet de choisir n'importe quelle simulation.
+Un fois qu'un CAO a été converti en simulation avec SkyPrep, le fichier à charger dans SkyReal est : `[SimulationName]\SkyReal\cooked\Simulation.umap`
+
+![librarySKRadd](/img/manuel-vr-user/librarySKRadd.png)
+
+### Trier les simulations
+
+Par défault, la bibliothèque affiche les simulation dans des étiquettes, mais vous pouvez choisir de les afficher sous forme de liste pour obtenir plus de détails.
+
+![librarySKRsorting](/img/manuel-vr-user/librarySKRsorting.png)
+
+Vous pouvez trier les cartes par :
+
+- les plus récentes,
+- les plus utilises,
+- Date de préparation,
+- Nom,
+- Chemin d'accès (_path_)
+
+### Ouvrir une simulation
+
+![librarySKRopen](/img/manuel-vr-user/librarySKRopen.png)
+
+**Play Loccally** : Démarrez la simulation sur cet ordinateur uniquement.
+
+**Create Session** : Démarrez une session collaborative de SkyReal. Vous hébergez le serveur, d'autres utilisateurs peuvent rejoindre votre session en utilisant la même carte.
+
+**Join Session** : Rejoignez une session existante sur le réseau. Vous devez entrez l'adresse IP de la session. (_Vous devez avoir exactement la même simulation_)
+
+![librarySKRjsIP](/img/manuel-vr-user/librarySKRjsIP.png)
