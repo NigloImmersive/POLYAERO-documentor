@@ -20,7 +20,7 @@ Une fois votre document envoyé à l'imprimante citée dans les exemples ci-dess
 
 **• Passez votre badge devant le scanner ci-contre :**
 
-![Scanbdg](/img/manuel-print/scanbdg.png)
+![Scanbdg](/img/manuel-print/scanbdgg.png)
 
  **• Entrez votre identifiant et votre mot de passe de session, ils se trouvent au dos de votre badge.**
 
