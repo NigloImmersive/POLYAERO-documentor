@@ -1,10 +1,10 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 
-# Lancer la session
+# Etalonner le simulateur
 
-Le simulateur de vol possède une session dédiée dont voici les identifiants :
+Le simulateur de vol  :
 
 Nom de session : **simu** <br/>
 Mot de passe : **Polyaero**
