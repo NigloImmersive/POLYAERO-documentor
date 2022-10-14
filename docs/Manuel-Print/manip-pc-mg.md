@@ -38,18 +38,9 @@ Une fois votre document envoyé à l'imprimante citée dans les exemples ci-dess
 **• Cliquez ensuite sur Connexion**.
 
 
-
-
-
-
-
 **• Appuyez sur Print-to-Me**
 
 ![PrintToMe](/img/manuel-print/printtome.png)
-
-
-
-
 
 Sur l'écran vous verrez affiché votre **solde** ainsi que **les documents que vous avez envoyé à l'imprimante depuis l'ordinateur de la salle informatique**.
 
@@ -59,5 +50,9 @@ Sélectionnez vos documents en cochant l'icône et appuyez sur **Impression**.
 
 ![Impr_Deco](/img/manuel-print/impr_deco.png)
 
+<font color='red'>
+
 # N'oubliez pas de vous déconnecter !
+
+</font>
 </div>
