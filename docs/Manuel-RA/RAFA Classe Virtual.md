@@ -2,10 +2,9 @@
 sidebar_position: 4
 ---
 
-# Comment se connecter à la classe virtuelle ?
+# Comment se connecter à la RAFA classe virtuelle ?
 
-Si vous avez souscrit aux 150 impressions pour la somme de 2,5€ auprès de l'assistante à la Direction de POLYAERO, vous avez accès à l'imprimante située dans le Hall.
-Désormais il est impossible de brancher sa clé usb pour lancer une impression.
+Commencon par allumer votre Hololens 2.
 
 <div style={{textAlign: 'center'}}>
 
